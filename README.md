@@ -1,6 +1,6 @@
 Blog App
 
-It's a blogging app with dunctionality like create, read, update, delete.
+It's a blogging app with functionality like create, read, update, delete.
 When you land in the home page of the app you can see that there are several post from the users, you can view a particular post by clicking view post and then 
 you can edit the post by clicking edit post , also after clicking edit post you also get the option of deleting the post as well.
 Now you can also add blog or post b y simply navigating the Add Blog section in the navigation bar. Also at any point of time you can again come back to the homepage
